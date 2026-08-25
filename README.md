@@ -78,6 +78,9 @@ data-warehouse-project/
 │   ├── silver/                         # Scripts for cleaning and transforming data
 │   ├── gold/                           # Scripts for creating analytical models
 │
+|____ Analytics_Scripts                 # SQL scripts demonstrating various analytical techniques
+|
+|
 ├── tests/                              # Test scripts and quality files
 │
 ├── README.md                           # Project overview and instructions
